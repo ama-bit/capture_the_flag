@@ -1,2 +1,2 @@
-# capture_the_flag
+# Capture The Flag 
 Learn how to capture flags with me.
